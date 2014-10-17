@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hrz:home|Door43 (hrz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hrz|d43-hrz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hrz/archive/master.zip|d43-hrz.zip]]
+
+**Recent Changes**
+{{changes>ns = hrz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hrz|Ethnologue data]]
+
